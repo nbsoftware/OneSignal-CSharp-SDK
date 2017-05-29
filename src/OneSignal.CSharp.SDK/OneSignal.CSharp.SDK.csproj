@@ -57,6 +57,7 @@
     <Compile Include="Resources\Devices\DeviceEditOptions.cs" />
     <Compile Include="Resources\Devices\DevicesResource.cs" />
     <Compile Include="Resources\Devices\DeviceTypeEnum.cs" />
+    <Compile Include="Resources\Devices\DeviceViewResult.cs" />
     <Compile Include="Resources\Devices\TestTypeEnum.cs" />
     <Compile Include="Resources\LanguageCodes.cs" />
     <Compile Include="Resources\Notifications\ActionButtonField.cs" />
